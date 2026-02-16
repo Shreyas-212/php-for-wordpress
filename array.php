@@ -7,3 +7,14 @@ while($count < count($names)) {
     $count++;
 }
 ?>
+
+
+<?php
+$animalSounds = array(
+    'cat' => 'meow',
+    'dog' => 'bark',
+    'pig' => 'oink'
+);
+
+echo $animalSounds['dog'];
+?>
