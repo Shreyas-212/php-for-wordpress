@@ -17,7 +17,7 @@ This repository is used as a learning sandbox for those concepts.
 ## How this connects to WordPress
 
 The PHP concepts practiced here are later applied in:
-- WordPress themes (`index.php`)
+- WordPress themes
 - WordPress plugins
 - Hooks and filters
 - Template logic
